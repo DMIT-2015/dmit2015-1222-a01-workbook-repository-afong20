@@ -1,8 +1,8 @@
 # DMIT2015 Fall 2022 assignments
 
-## your name here
+## Aaron Fong
 
-## your Github Account id
+## afong20
 
 This is a private repository for your assignments. 
 You will use this only for evaluation work. 
