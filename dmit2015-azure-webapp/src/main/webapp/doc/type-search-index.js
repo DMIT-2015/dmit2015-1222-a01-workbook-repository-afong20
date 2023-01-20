@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ca.nait.dmit.domain","l":"BMI"},{"p":"dmit2015.model","l":"Circle"},{"p":"ca.nait.dmit.demo2","l":"HelloServlet"},{"p":"dmit2015.model","l":"Rectangle"}];updateSearchResults();
